@@ -1,0 +1,10 @@
+Russia
+147.0
+Germany
+82.0
+Turkey
+66.0
+France
+61.0
+United Kingdom
+60.0

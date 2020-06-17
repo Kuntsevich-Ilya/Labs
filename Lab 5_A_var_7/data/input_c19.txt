@@ -1,0 +1,10 @@
+Russian Empire
+133.0
+Germany
+57.0
+Austria-Hungary
+45.0
+United Kingdom
+41.0
+France
+41.0

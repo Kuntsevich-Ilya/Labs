@@ -1,0 +1,10 @@
+Ottoman Empire
+28.0
+Holy Roman Empire
+20.0
+France
+16.0
+Russia
+10.0
+Polish-Lithuanian C.
+9.5

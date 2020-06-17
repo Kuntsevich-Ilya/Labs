@@ -1,0 +1,10 @@
+France
+34.0
+Russian Empire
+30.0
+Ottoman Empire
+24.0
+Habsburg Monarchy
+21.0
+Great Britain
+19.0
